@@ -72,10 +72,10 @@ ________________________________
 ## Comparing Profits by Genre 
 ![genres](./Visualizations/genres.png)
 
-## TTest Graph of Adventure Genre
+## T-Test Graph of Adventure Genre
 ![adventure](./Visualizations/AdvTtest.png)
 
-## TTest Graph of Animation Genre
+## T-Test Graph of Animation Genre
 ![animation](./Visualizations/aniTtest.png)
 
 ## Results:
