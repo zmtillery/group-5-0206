@@ -3,6 +3,15 @@
 
 ## Links to Presentation and Notebooks
 [Main Notebook](./CapstoneNotebook.ipynb)
+[Presentation](./CapstoneNotebook.ipynb)
+
+Individual Notebooks
+
+[Allen's Notebook](./notebooks/allen/allen.ipynb)
+[Cole's Notebook](./notebooks/cole/cole.ipynb)
+[Joshua's Notebook](./notebooks/joshua/joshua.ipynb)
+[Saketh's Notebook](./notebooks/saketh/Saketh_Main.ipynb)
+[Zach's Notebook](./notebooks/zach-final.ipynb)
 
 ## Business Understanding 
     Stakeholders: Computing vision - An innovative and dynamic movie production company dedicated to creating their first film that showcases cutting-edge visual effects and makes a mark on the cinematic storytelling industry.
