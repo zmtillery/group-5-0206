@@ -90,10 +90,6 @@ Relationship between adventure genre and profit is statistically significant
 Can not confirm that relationship between the animation genre and profit is statistically significant
 
 
-
-## Conclusion
-____________________
-
 ## Recommendations
 
 The analysis of production budget vs profits showed that Computing Vision should allocate a production budget that maximizes the chance of profitability and maintains a reasonable financial risk to Computing Vision
