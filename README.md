@@ -2,16 +2,26 @@
 ## Overview
 
 ## Links to Presentation and Notebooks
-[Main Notebook](./CapstoneNotebook.ipynb)
-[Presentation](./CapstoneNotebook.ipynb)
+[Main Notebook](./CapstoneNotebook.ipynb)<br>
+[Presentation](./CapstoneNotebook.ipynb)<br>
 
 Individual Notebooks
 
-[Allen's Notebook](./notebooks/allen/allen.ipynb)
-[Cole's Notebook](./notebooks/cole/cole.ipynb)
-[Joshua's Notebook](./notebooks/joshua/joshua.ipynb)
-[Saketh's Notebook](./notebooks/saketh/Saketh_Main.ipynb)
-[Zach's Notebook](./notebooks/zach-final.ipynb)
+[Allen's Notebook](./notebooks/allen/allen.ipynb) <br>
+
+[Cole's Notebook](./notebooks/cole/cole.ipynb)<br>
+
+[Joshua's Notebook](./notebooks/joshua/joshua.ipynb)<br>
+
+[Saketh's Notebook](./notebooks/saketh/Saketh_Main.ipynb)<br>
+
+[Zach's Notebook](./notebooks/zach-final.ipynb)<br>
+
+
+## Navigating Instructions 
+    The main deliverables for this project are located in the main folder of the repository. To access the data used for this project click on the data folder and then the zipped data folder, all of the data provided for this project is located in this folder. To access the individual notebooks for each member you can either click on one of the links directly above or click on the notebooks folder and then choose the folder of the specific members notebook you want to access. Finally to see the .png files for the data visualizations used in this project click on the visualizations folder
+
+
 
 ## Business Understanding 
     Stakeholders: Computing vision - An innovative and dynamic movie production company dedicated to creating their first film that showcases cutting-edge visual effects and makes a mark on the cinematic storytelling industry.
