@@ -22,6 +22,23 @@ Individual Notebooks
     The main deliverables for this project are located in the main folder of the repository. To access the data used for this project click on the data folder and then the zipped data folder, all of the data provided for this project is located in this folder. To access the individual notebooks for each member you can either click on one of the links directly above or click on the notebooks folder and then choose the folder of the specific members notebook you want to access. Finally to see the .png files for the data visualizations used in this project click on the visualizations folder
 
 
+## Data Science Steps Taken 
+1: Defined a business Problem <br>
+2: Found useful data <br>
+3: Cleaned and processed data <br>
+4: Analyzed and modeled the data <br>
+5: Determine recommendations and next steps based on analysis <br>
+    
+## Packages Used 
+sqlite3 
+pandas  
+seaborn 
+matplotlib.pyplot 
+numpy 
+scipy: stats
+matplotlib.ticker: FuncFormatter
+
+
 
 ## Business Understanding 
     Stakeholders: Computing vision - An innovative and dynamic movie production company dedicated to creating their first film that showcases cutting-edge visual effects and makes a mark on the cinematic storytelling industry.
