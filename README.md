@@ -1,6 +1,8 @@
 # group-5-0206
 ## Overview
 
+## Links to Presentation and Notebooks
+[Main Notebook](./CapstoneNotebook.ipynb)
 
 ## Business Understanding 
     Stakeholders: Computing vision - An innovative and dynamic movie production company dedicated to creating their first film that showcases cutting-edge visual effects and makes a mark on the cinematic storytelling industry.
