@@ -2,7 +2,8 @@
 ## Overview
 
 ## Links to Presentation and Notebooks
-[Main Notebook](./CapstoneNotebook.ipynb)<br>
+[Main Notebook](./CapstoneNotebook.ipynb)<br> 
+
 [Presentation](./CapstoneNotebook.ipynb)<br>
 
 Individual Notebooks
@@ -19,7 +20,7 @@ Individual Notebooks
 
 
 ## Navigating Instructions 
-    The main deliverables for this project are located in the main folder of the repository. To access the data used for this project click on the data folder and then the zipped data folder, all of the data provided for this project is located in this folder. To access the individual notebooks for each member you can either click on one of the links directly above or click on the notebooks folder and then choose the folder of the specific members notebook you want to access. Finally to see the .png files for the data visualizations used in this project click on the visualizations folder
+The main deliverables for this project are located in the main folder of the repository. To access the data used for this project click on the data folder and then the zipped data folder, all of the data provided for this project is located in this folder. To access the individual notebooks for each member you can either click on one of the links directly above or click on the notebooks folder and then choose the folder of the specific members notebook you want to access. Finally to see the .png files for the data visualizations used in this project click on the visualizations folder
 
 
 ## Data Science Steps Taken 
@@ -30,26 +31,26 @@ Individual Notebooks
 5: Determine recommendations and next steps based on analysis <br>
     
 ## Packages Used 
-sqlite3 
-pandas  
-seaborn 
-matplotlib.pyplot 
-numpy 
-scipy: stats
-matplotlib.ticker: FuncFormatter
+sqlite3 <br> 
+pandas <br>
+seaborn <br>
+matplotlib.pyplot <br>
+numpy <br>
+scipy: stats <br>
+matplotlib.ticker: FuncFormatter <br>
 
 
 
 ## Business Understanding 
-    Stakeholders: Computing vision - An innovative and dynamic movie production company dedicated to creating their first film that showcases cutting-edge visual effects and makes a mark on the cinematic storytelling industry.
+Stakeholders: Computing vision - An innovative and dynamic movie production company dedicated to creating their first film that showcases cutting-edge visual effects and makes a mark on the cinematic storytelling industry.
 
-    Business Problem: Provide actionable insights that the head of Computing Vision's new movie studio can use to help decide what type of films to create. The insights were determined by data aggregation and alaysis techniques as well as statistical analysis'
+Business Problem: Provide actionable insights that the head of Computing Vision's new movie studio can use to help decide what type of films to create. The insights were determined by data aggregation and alaysis techniques as well as statistical analysis'
     
-    Key Business Questions: What metric's do Computing Vision want to track and use to gauge success of the movie studio? Are there any predefined limitations on budget, writers/directors, etc. that could impact the recommendations given?
+Key Business Questions: What metric's do Computing Vision want to track and use to gauge success of the movie studio? Are there any predefined limitations on budget, writers/directors, etc. that could impact the recommendations given?
 
 
 ## Data Understanding 
-    We retrieved our data from tn.movie_budgets.csvfile and the IMDB SQL database, which served as the primary sources of our analysis. The   tn.movie_budgets.csv dataset provided insight into the production budget of each movie as well as the gross domestic revenue and the total     worldwide revenue of the movie. The IMDB dataset provided insight into categorical data about the movies including writers, directors, genre, runtime, ratings, etc. These datasets also both include the name of the movie, which allows us to join the datasets together so that we were able to analyze and make recommendations
+We retrieved our data from tn.movie_budgets.csvfile and the IMDB SQL database, which served as the primary sources of our analysis. The   tn.movie_budgets.csv dataset provided insight into the production budget of each movie as well as the gross domestic revenue and the total    worldwide revenue of the movie. The IMDB dataset provided insight into categorical data about the movies including writers, directors, genre, runtime, ratings, etc. These datasets also both include the name of the movie, which allows us to join the datasets together so that we were able to analyze and make recommendations
     
 ## Data Analysis
 ________________________
