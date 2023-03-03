@@ -4,7 +4,7 @@
 ## Links to Presentation and Notebooks
 [Main Notebook](./CapstoneNotebook.ipynb)<br> 
 
-[Presentation](./presentation.pdf)<br>
+[Presentation](./Presentation.pdf)<br>
 
 Individual Notebooks
 
